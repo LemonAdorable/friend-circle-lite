@@ -1,0 +1,22 @@
+[
+  {
+    "name": "John Chiao",
+    "intro": "JohnCh's Home",
+    "link": "https://johnch.dpdns.org/",
+    "avatar": "https://cdn.luogu.com.cn/upload/usericon/1366636.png"
+  },
+  {
+    "name": "旧梦与花",
+    "intro": "欲买桂花同载酒，终不似，少年游",
+    "link": "https://zhh2001.github.io/",
+    "avatar": "https://zhh2001.github.io/avatar.jpg",
+    "issue_id": 31
+  },
+  {
+    "name": "云灿の随笔小站",
+    "intro": "浮云一别后，流水十年间",
+    "link": "https://blog.yuncan.xyz/",
+    "avatar": "https://yuncan.xyz/images/icon/favicon.ico",
+    "issue_id": 25
+  }
+]
